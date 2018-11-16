@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213082717986",
+    "firebase_url": "https://loginragistration.firebaseio.com",
+    "project_id": "loginragistration",
+    "storage_bucket": "loginragistration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213082717986:android:568f2fd8017d4ec0",
+        "android_client_info": {
+          "package_name": "shubhangi.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213082717986-1f4q2ghfmfkj9ja9csffo0nk7cuer6o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shubhangi.loginpage",
+            "certificate_hash": "721e06c9ddc2ab74f63f4b9a4cf1ba2cfebe8152"
+          }
+        },
+        {
+          "client_id": "213082717986-1d0nvaftbkfsgqm9t1pchg9dfq2mh17e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfuK3ENgxKwFGpHrhZiMWxvOVJB7j-RWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213082717986-1d0nvaftbkfsgqm9t1pchg9dfq2mh17e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
